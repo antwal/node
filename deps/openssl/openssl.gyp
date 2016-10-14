@@ -1133,7 +1133,8 @@
             ],
             'defines': [
               '_XOPEN_SOURCE_EXTENDED',
-              '_UNIX03_SOURCE'
+              '_UNIX03_SOURCE',
+              'CHARSET_EBCDIC'
             ],
           }, {
             'cflags': ['-Wno-missing-field-initializers'],
