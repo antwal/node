@@ -1138,6 +1138,7 @@
             'defines': [
               '_XOPEN_SOURCE_EXTENDED',
               '_UNIX03_SOURCE',
+              'OPENSSL_NO_HW',
               'NI_MAXHOST=1024',
               'NI_MAXSERV=32',
             ],
